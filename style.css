@@ -9,16 +9,26 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 50px;
+    padding: 60px;
 }
 
-.cabeçalho-imagem-borboleta{
-    width: 128px;
+.cabeçalho-logo-square-enix{
+    width: 800px;
 }
 
 .cabeçalho-link{
     display: inline-block;
-    margin-left: 800px;
+    margin-left: 1200px;
     font-style: normal;
-    font-size: 25px;
+    font-size: 40px;
+}
+
+.logo-lis{
+    width: 700px;
+}
+
+.sobre-o-jogo{
+    background-image: linear-gradient(#01030C, #64A5D3, #DCE0F5);
+    color: white;
+    padding: 120px;
 }
