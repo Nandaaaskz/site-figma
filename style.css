@@ -24,11 +24,19 @@
 }
 
 .logo-lis{
-    width: 700px;
+    width: 800px;
 }
 
 .sobre-o-jogo{
     background-image: linear-gradient(#01030C, #64A5D3, #DCE0F5);
     color: white;
-    padding: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    padding: 200px;
+}
+
+.jogo-divisor{
+    width: 800px;
 }
