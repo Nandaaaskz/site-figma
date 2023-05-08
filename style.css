@@ -20,23 +20,40 @@
     display: inline-block;
     margin-left: 1200px;
     font-style: normal;
-    font-size: 40px;
+    font-size: 70px;
 }
 
 .logo-lis{
     width: 800px;
+    margin-left: 300px;
 }
 
 .sobre-o-jogo{
     background-image: linear-gradient(#01030C, #64A5D3, #DCE0F5);
     color: white;
     display: flex;
-    justify-content: center;
     align-items: center;
-    font-size: 40px;
     padding: 200px;
 }
 
+.título-sobre-o-jogo{
+    padding: 24px;
+    margin-left: 300px;
+    font-size: 80px;
+}
+
 .jogo-divisor{
-    width: 800px;
+    width: 1200px;
+}
+
+.jogo-texto1{
+    padding: 25px;
+    margin-left: 200px;
+    font-size: 50px;
+}
+
+.jogo-texto2{
+    padding: 25px;
+    margin-left: 200px;
+    font-size: 50px;
 }
