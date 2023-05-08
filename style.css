@@ -8,7 +8,7 @@
     color: white;
     display: flex;
     align-items: center;
-    padding: 60px;
+    padding: 150px;
 }
 
 .cabeçalho-logo-square-enix{
@@ -18,7 +18,7 @@
 
 .cabeçalho-link{
     display: inline-block;
-    margin-left: 1200px;
+    margin-left: 2100px;
     font-family: 'Inter', sans-serif;
     font-size: 60px;
 }
@@ -72,6 +72,7 @@
 .tex-max{
     font-size: 30px;
     font-family: 'Inter', sans-serif;
+    padding: 30px;
 }
 
 .chloe-price{
@@ -85,6 +86,7 @@
 .tex-chloe{
     font-size: 30px;
     font-family: 'Inter', sans-serif;
+    padding: 30px;
 }
 .rachel-amber{
     width: 320px;
@@ -97,6 +99,7 @@
 .tex-rachel{
     font-size: 30px;
     font-family: 'Inter', sans-serif;
+    padding: 30px;
 }
 
 .nathan-prescott{
@@ -110,6 +113,7 @@
 .tex-nat{
     font-size: 30px;
     font-family: 'Inter', sans-serif;
+    padding: 30px;
 }
 
 .mark-jefferson{
@@ -118,11 +122,13 @@
 
 .div-mark{
     text-align: center;
+    padding: 80px;
 }
 
 .tex-mark{
     font-size: 30px;
     font-family: 'Inter', sans-serif;
+    padding: 30px;
 }
 
 .kate-marsh{
@@ -131,11 +137,13 @@
 
 .div-kate{
     text-align: center;
+    padding: 80px;
 }
 
 .tex-kate{
     font-size: 30px;
     font-family: 'Inter', sans-serif;
+    padding: 30px;
 }
 
 .warren-graham{
@@ -144,11 +152,13 @@
 
 .div-warren{
     text-align: center;
+    padding: 80px;
 }
 
 .tex-warren{
     font-size: 30px;
     font-family: 'Inter', sans-serif;
+    padding: 30px;
 }
 
 .victoria-chase{
@@ -157,9 +167,28 @@
 
 .div-victoria{
     text-align: center;
+    padding: 80px;
 }
 
 .tex-vic{
     font-size: 30px;
     font-family: 'Inter', sans-serif;
+    padding: 30px;
+}
+
+.personagens-título{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 60px;
+    padding: 150px;
+}
+
+.personagens{
+    background-color: #C3C3C3;
+}
+
+.personagens-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    margin-left: 500px
 }
