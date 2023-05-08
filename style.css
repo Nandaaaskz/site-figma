@@ -7,25 +7,25 @@
     background-color: #01030C;
     color: white;
     display: flex;
-    justify-content: space-around;
     align-items: center;
     padding: 60px;
 }
 
 .cabeçalho-logo-square-enix{
     width: 800px;
+    margin-left: 100px;
 }
 
 .cabeçalho-link{
     display: inline-block;
     margin-left: 1200px;
-    font-style: normal;
-    font-size: 70px;
+    font-family: 'Inter', sans-serif;
+    font-size: 60px;
 }
 
 .logo-lis{
     width: 800px;
-    margin-left: 300px;
+    margin-left: 200px;
 }
 
 .sobre-o-jogo{
@@ -40,20 +40,126 @@
     padding: 24px;
     margin-left: 300px;
     font-size: 80px;
+    font-family: 'Inter', sans-serif;
 }
 
 .jogo-divisor{
-    width: 1200px;
+    width: 1700px;
 }
 
 .jogo-texto1{
     padding: 25px;
     margin-left: 200px;
     font-size: 50px;
+    font-family: 'Inter', sans-serif;
 }
 
 .jogo-texto2{
     padding: 25px;
     margin-left: 200px;
     font-size: 50px;
+    font-family: 'Inter', sans-serif;
+}
+
+.maxine-caulfield{
+    width: 320px;
+}
+
+.div-maxine{
+    text-align: center;
+}
+
+.tex-max{
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+.chloe-price{
+    width: 320px;
+}
+
+.div-chloe{
+    text-align: center;
+}
+
+.tex-chloe{
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+.rachel-amber{
+    width: 320px;
+}
+
+.div-rachel{
+    text-align: center;
+}
+
+.tex-rachel{
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+.nathan-prescott{
+    width: 320px;
+}
+
+.div-nathan{
+    text-align: center;
+}
+
+.tex-nat{
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+.mark-jefferson{
+    width: 320px;
+}
+
+.div-mark{
+    text-align: center;
+}
+
+.tex-mark{
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+.kate-marsh{
+    width: 320px;
+}
+
+.div-kate{
+    text-align: center;
+}
+
+.tex-kate{
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+.warren-graham{
+    width: 320px;
+}
+
+.div-warren{
+    text-align: center;
+}
+
+.tex-warren{
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+.victoria-chase{
+    width: 320px;
+}
+
+.div-victoria{
+    text-align: center;
+}
+
+.tex-vic{
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
 }
