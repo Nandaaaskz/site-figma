@@ -18,185 +18,9 @@
 
 .cabeçalho-link{
     display: inline-block;
-    margin-left: 1000px;
+    margin-left: 2100px;
     font-family: 'Inter', sans-serif;
     font-size: 60px;
-    padding: 25px;
-}
-
-.logo-lis{
-    width: 800px;
-    margin-left: 200px;
-}
-
-.sobre-o-jogo{
-    background-image: linear-gradient(#01030C, #64A5D3, #DCE0F5);
-    color: white;
-    display: flex;
-    align-items: center;
-    padding: 200px;
-}
-
-.título-sobre-o-jogo{
-    padding: 24px;
-    margin-left: 300px;
-    font-size: 80px;
-    font-family: 'Inter', sans-serif;
-}
-
-.jogo-divisor{
-    width: 1700px;
-}
-
-.jogo-texto1{
-    padding: 25px;
-    margin-left: 200px;
-    font-size: 50px;
-    font-family: 'Inter', sans-serif;
-}
-
-.jogo-texto2{
-    padding: 25px;
-    margin-left: 200px;
-    font-size: 50px;
-    font-family: 'Inter', sans-serif;
-}
-
-.maxine-caulfield{
-    width: 320px;
-}
-
-.div-maxine{
-    text-align: center;
-    font-size: 30px;
-}
-
-.tex-max{
-    font-family: 'Inter', sans-serif;
-    padding: 30px;
-}
-
-.tex-cau{
-    font-family: 'Inter', sans-serif;
-    margin-top: -30px;
-}
-
-.chloe-price{
-    width: 320px;
-}
-
-.div-chloe{
-    text-align: center;
-}
-
-.tex-chloe{
-    font-size: 30px;
-    font-family: 'Inter', sans-serif;
-    padding: 30px;
-}
-.rachel-amber{
-    width: 320px;
-}
-
-.div-rachel{
-    text-align: center;
-}
-
-.tex-rachel{
-    font-size: 30px;
-    font-family: 'Inter', sans-serif;
-    padding: 30px;
-}
-
-.nathan-prescott{
-    width: 320px;
-}
-
-.div-nathan{
-    text-align: center;
-}
-
-.tex-nat{
-    font-size: 30px;
-    font-family: 'Inter', sans-serif;
-    padding: 30px;
-}
-
-.mark-jefferson{
-    width: 320px;
-}
-
-.div-mark{
-    text-align: center;
-    padding: 80px;
-}
-
-.tex-mark{
-    font-size: 30px;
-    font-family: 'Inter', sans-serif;
-    padding: 30px;
-}
-
-.kate-marsh{
-    width: 320px;
-}
-
-.div-kate{
-    text-align: center;
-    padding: 80px;
-}
-
-.tex-kate{
-    font-size: 30px;
-    font-family: 'Inter', sans-serif;
-    padding: 30px;
-}
-
-.warren-graham{
-    width: 320px;
-}
-
-.div-warren{
-    text-align: center;
-    padding: 80px;
-}
-
-.tex-warren{
-    font-size: 30px;
-    font-family: 'Inter', sans-serif;
-    padding: 30px;
-}
-
-.victoria-chase{
-    width: 320px;
-}
-
-.div-victoria{
-    text-align: center;
-    padding: 80px;
-}
-
-.tex-vic{
-    font-size: 30px;
-    font-family: 'Inter', sans-serif;
-    padding: 30px;
-}
-
-.personagens-título{
-    text-align: center;
-    font-family: 'Inter', sans-serif;
-    font-size: 60px;
-    padding: 150px;
-}
-
-.personagens{
-    background-color: #C3C3C3;
-}
-
-.personagens-todos{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-    margin-left: 500px
 }
 
 .logo-lis{
@@ -366,5 +190,14 @@
 .personagens-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
-    margin-left: 500px
+    margin-left: 500px;
+}
+
+.parte-final{
+    background-color: #01030C;
+    text-align: center;
+}
+
+.borboleta{
+    width: 220px;
 }
